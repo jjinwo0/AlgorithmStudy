@@ -33,8 +33,4 @@ public class S4_9012 {
             stack.clear();
         }
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0064350ced2cd9c3bd589df3b2bae7ac55276c50
