@@ -1,4 +1,4 @@
-package Week3;
+package codingtest.Week3;
 
 import java.io.*;
 import java.util.HashMap;

@@ -1,7 +1,9 @@
+package codingtest.Week4;
+
 import java.io.*;
 import java.util.Stack;
 
-public class Main {
+public class dain_1406 {
     public static void main(String[] args) throws IOException {
         //입력 출력 메소드 선언
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
