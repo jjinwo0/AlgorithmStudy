@@ -24,7 +24,7 @@ Comparator의 compare함수는 인자값 두 개가 필요하며, 이를 대소�
 ```java
 import java.util.*;
 
-class Main {
+class codingtest.Week5.Main {
     public static void main(String[] args) {
 
         System.out.println("[List만 활용]");

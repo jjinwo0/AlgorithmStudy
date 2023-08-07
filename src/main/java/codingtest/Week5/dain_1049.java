@@ -1,3 +1,5 @@
+package codingtest.Week5;
+
 import java.io.*;
 import java.util.StringTokenizer;
 
